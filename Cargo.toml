@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "def-call",
+    "impl-if",
+    "runtime",
+    "crate_interface"
+]
